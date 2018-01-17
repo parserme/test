@@ -2,3 +2,4 @@ initial words for first commit
 changes on change1
 on local master remote detached
 onserver editing
+changes made on local master instead of prmecopytest/master
